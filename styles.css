@@ -26,3 +26,5 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline-color:#955000
 @media(max-width:760px){.nav-wrap{padding:10px 16px;gap:8px}.brand{width:180px}.eyebrow{font-size:11px}.hero-bottom{font-size:12px}.footer p{font-size:12px;width:100%}.ai-explorer{min-height:470px}.ai-options{gap:4px}.ai-option{padding:10px 12px}.contact-details h3{font-size:12px}}
 @media(forced-colors:active){h1>span{background:none;color:CanvasText}.ai-option.active{border:2px solid ButtonText}}
 #ai-content .mini-label{color:#b2c9c1}
+
+.faq{padding-top:50px}.faq-list{max-width:850px}.faq details{border-bottom:1px solid var(--line);padding:18px 0}.faq summary{cursor:pointer;min-height:44px;font-size:18px;font-weight:600;line-height:1.5;padding:8px 0}.faq details p{font-size:16px;color:var(--muted);margin:14px 0;max-width:70ch}.faq a{text-decoration:underline;text-underline-offset:3px}
